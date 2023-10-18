@@ -1,5 +1,5 @@
 
-# Micrograd
+# Micrograd (EM ANDAMENTO)
 
 Projeto de um Micrograd, com as função de realizar uma retropropagação  automatica, construido totalmente a mão com base no video do Andrej Karpathy.
 
